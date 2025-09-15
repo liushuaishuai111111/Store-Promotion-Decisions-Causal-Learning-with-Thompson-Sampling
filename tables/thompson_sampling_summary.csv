@@ -1,7 +1,0 @@
-Metric,Value
-Total Days,551
-Mean Daily Efficiency,0.982
-Final Efficiency,0.977
-Days with TS > Oracle,151 (27.4%)
-Max Single-Day Regret,11228
-Final Cumulative Gap,"756,476"
