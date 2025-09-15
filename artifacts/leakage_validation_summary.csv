@@ -1,0 +1,4 @@
+feature,overall_match,median_store_match,low_match_stores,bad_first_rows,status
+lag7,1.0,1.0,0,0,PASS
+lag14,1.0,1.0,0,0,PASS
+lag28,1.0,1.0,0,0,PASS
